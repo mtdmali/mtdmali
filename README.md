@@ -1,15 +1,13 @@
+# :wave: Hello, World!
+
 <!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
 <!-- <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'> -->
-
-<img src="./header.png" alt="Hi, I'm Mike Mali.">
-
----
 
 <a href="mailto:michaeltdmali@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/mtdmali/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <h3>
-    I'm a front-end web developer based in the Greater Toronto Area.
+    My name is Mike Mali,<br/>I'm a front-end web developer based in the Greater Toronto Area.
 </h3>
 
 <h6>
@@ -27,7 +25,7 @@
   3. Screenshotting your NFTs.
 </h5>
 <h6>
-  <sup><em>(I don't care how much you paid for it.)</em></sup>
+  <sup><em>(I don't care how much you paid for them.)</em></sup>
 </h6>
 </blockquote>
 
