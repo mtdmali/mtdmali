@@ -87,12 +87,12 @@
   
   <br/>
   
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" />
   <img alt="Eleventy" src="https://img.shields.io/badge/Eleventy-black?style=for-the-badge&logo=Eleventy&logoColor=white" />
   <img alt="PostCSS" src="https://img.shields.io/badge/PostCSS-%23DD3A0A.svg?style=for-the-badge&logo=PostCSS&logoColor=white" />
   <img alt="GreenSock" src="https://img.shields.io/badge/greensock-%2388CE02?style=for-the-badge&logo=GreenSock&logoColor=white" />
-  <img alt="D3.js" src="https://img.shields.io/badge/d3.js-%23F9A03C?style=for-the-badge&logo=D3.js&logoColor=white" />
-  <img alt="Three.js" src="https://img.shields.io/badge/three.js-black?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img alt="D3.js" src="https://img.shields.io/badge/D3-%23F9A03C?style=for-the-badge&logo=D3.js&logoColor=white" />
+  <img alt="Three.js" src="https://img.shields.io/badge/three-black?style=for-the-badge&logo=three.js&logoColor=white" />
   <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
 </details>
