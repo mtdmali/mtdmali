@@ -4,9 +4,9 @@
 <!-- <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'> -->
 
 <a href="mailto:michaeltdmali@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/mtdmali/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/mtdmali"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://letterboxd.com/mtdmali/"><img src="https://img.shields.io/badge/Letterboxd-00D735.svg?style=for-the-badge&logo=letterboxd&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mtdmali/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/mtdmali" target="_blank"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://letterboxd.com/mtdmali/" target="_blank"><img src="https://img.shields.io/badge/Letterboxd-00D735.svg?style=for-the-badge&logo=letterboxd&logoColor=white"/></a>
 
 <h3>
     My name is Mike Mali,<br/>I'm a front-end web developer based in the Greater Toronto Area.
