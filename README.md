@@ -1,12 +1,17 @@
 # :wave: Hello, World!
 
-<!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
-<!-- <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'> -->
-
-<a href="mailto:michaeltdmali@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/mtdmali/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/mtdmali"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://letterboxd.com/mtdmali/"><img src="https://img.shields.io/badge/Letterboxd-00D735.svg?style=for-the-badge&logo=letterboxd&logoColor=white"/></a>
+<a href="mailto:michaeltdmali@gmail.com">
+  <img alt="Email me" src="https://img.shields.io/badge/Email%20Me-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/mtdmali/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://twitter.com/mtdmali">
+  <img alt="Twitter" src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+<a href="https://letterboxd.com/mtdmali/">
+  <img alt="Letterboxd" src="https://img.shields.io/badge/Letterboxd-00D735.svg?style=for-the-badge&logo=letterboxd&logoColor=white"/>
+</a>
 
 <h3>
     My name is Mike Mali,<br/>I'm a front-end web developer based in the Greater Toronto Area.
@@ -44,17 +49,15 @@
   
   <br/>
   
-  ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-  ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-  ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Hyper](https://img.shields.io/badge/Hyper-black.svg?style=for-the-badge&logo=Hyper&logoColor=white)
-  ![NPM](https://img.shields.io/badge/NPM-%23CC3534.svg?style=for-the-badge&logo=npm&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)
-  <!-- ![Safari](https://img.shields.io/badge/Safari-%23006CFF.svg?style=for-the-badge&logo=Safari&logoColor=white)
-  ![Plex](https://img.shields.io/badge/Plex-%23E5A00D.svg?style=for-the-badge&logo=Plex&logoColor=white) -->
+  <img alt="macOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
+  <img alt="HTML" src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img alt="Hyper" src="https://img.shields.io/badge/Hyper-black.svg?style=for-the-badge&logo=Hyper&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/NPM-%23CC3534.svg?style=for-the-badge&logo=npm&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" />
 </details>
 
 ---
@@ -65,15 +68,14 @@
   </summary>
   
   <br/>
-  
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Mapbox](https://img.shields.io/badge/mapbox-%233195ff.svg?style=for-the-badge&logo=mapbox&logoColor=white)
-  ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  ![Netlify](https://img.shields.io/badge/netlify-%2300AD9F.svg?style=for-the-badge&logo=netlify&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-  <!-- ![RetroArch](https://img.shields.io/badge/retroarch-black.svg?style=for-the-badge&logo=RetroArch&logoColor=white) -->
+
+  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img alt="Mapbox" src="https://img.shields.io/badge/mapbox-%233195ff.svg?style=for-the-badge&logo=mapbox&logoColor=white" />
+  <img alt="styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img alt="Netlify" src="https://img.shields.io/badge/netlify-%2300AD9F.svg?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
 </details>
 
 ---
@@ -85,15 +87,12 @@
   
   <br/>
   
-  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-  ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
-  ![Eleventy](https://img.shields.io/badge/Eleventy-black?style=for-the-badge&logo=Eleventy&logoColor=white)
-  ![PostCSS](https://img.shields.io/badge/PostCSS-%23DD3A0A.svg?style=for-the-badge&logo=PostCSS&logoColor=white)
-  ![GreenSock](https://img.shields.io/badge/greensock-%2388CE02?style=for-the-badge&logo=GreenSock&logoColor=white)
-  ![D3.js](https://img.shields.io/badge/d3.js-%23F9A03C?style=for-the-badge&logo=D3.js&logoColor=white)
-  ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-  ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-  <!-- ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-  ![Tailwind](https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) -->
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" />
+  <img alt="Eleventy" src="https://img.shields.io/badge/Eleventy-black?style=for-the-badge&logo=Eleventy&logoColor=white" />
+  <img alt="PostCSS" src="https://img.shields.io/badge/PostCSS-%23DD3A0A.svg?style=for-the-badge&logo=PostCSS&logoColor=white" />
+  <img alt="GreenSock" src="https://img.shields.io/badge/greensock-%2388CE02?style=for-the-badge&logo=GreenSock&logoColor=white" />
+  <img alt="D3.js" src="https://img.shields.io/badge/d3.js-%23F9A03C?style=for-the-badge&logo=D3.js&logoColor=white" />
+  <img alt="Three.js" src="https://img.shields.io/badge/three.js-black?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
 </details>
