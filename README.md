@@ -50,9 +50,9 @@
   ![Hyper](https://img.shields.io/badge/Hyper-black.svg?style=for-the-badge&logo=Hyper&logoColor=white)
   ![NPM](https://img.shields.io/badge/NPM-%23CC3534.svg?style=for-the-badge&logo=npm&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![Safari](https://img.shields.io/badge/Safari-%23006CFF.svg?style=for-the-badge&logo=Safari&logoColor=white)
   ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)
-  <!-- ![Plex](https://img.shields.io/badge/Plex-%23E5A00D.svg?style=for-the-badge&logo=Plex&logoColor=white) -->
+  <!-- ![Safari](https://img.shields.io/badge/Safari-%23006CFF.svg?style=for-the-badge&logo=Safari&logoColor=white)
+  ![Plex](https://img.shields.io/badge/Plex-%23E5A00D.svg?style=for-the-badge&logo=Plex&logoColor=white) -->
 </details>
 
 ---
@@ -86,12 +86,12 @@
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
   ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
   ![Eleventy](https://img.shields.io/badge/Eleventy-black?style=for-the-badge&logo=Eleventy&logoColor=white)
-  ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
   ![PostCSS](https://img.shields.io/badge/PostCSS-%23DD3A0A.svg?style=for-the-badge&logo=PostCSS&logoColor=white)
   ![GreenSock](https://img.shields.io/badge/greensock-%2388CE02?style=for-the-badge&logo=GreenSock&logoColor=white)
   ![D3.js](https://img.shields.io/badge/d3.js-%23F9A03C?style=for-the-badge&logo=D3.js&logoColor=white)
   ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
   ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-  <!-- ![Tailwind](https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  <!-- ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+  ![Tailwind](https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) -->
 </details>
