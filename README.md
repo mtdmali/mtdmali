@@ -6,9 +6,6 @@
 <a href="https://www.linkedin.com/in/mtdmali/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://twitter.com/mtdmali">
-  <img alt="Twitter" src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
 <a href="https://letterboxd.com/mtdmali/">
   <img alt="Letterboxd" src="https://img.shields.io/badge/Letterboxd-00D735.svg?style=for-the-badge&logo=letterboxd&logoColor=white"/>
 </a>
@@ -37,7 +34,7 @@
 </blockquote>
 
 <h5>
-  I'm hoping to start a blog in 2022. Until then, <a href="https://letterboxd.com/mtdmali/" target="_blank">follow me on Letterboxd</a> to read all of my horrible movie takes.
+  I'm hoping to start a blog in 2022. Until then, <a href="https://letterboxd.com/mtdmali/" target="_blank">follow me on Letterboxd</a> to read all of my freezing cold movie takes.
 </h5>
 
 ---
